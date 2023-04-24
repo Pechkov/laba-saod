@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdint.h>
-#include <sus/time.h>
+#include <sys/time.h>
 #include "../libraries/header.h"
 
 int getrand(int min, int max)
